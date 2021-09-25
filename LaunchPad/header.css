@@ -1,0 +1,12 @@
+.title_light span, .title_dark span {
+    color: #7ab9ff;
+    display: block;
+    font-weight: 500;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+.number {
+    color: #00dcc4 !important;
+}
+

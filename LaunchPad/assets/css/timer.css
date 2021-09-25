@@ -1,0 +1,67 @@
+/* body {
+    font-size: 16px;
+    line-height: 28px;
+    -webkit-font-smoothing: antialiased;
+    font-family: Poppins, sans-serif;
+    color: rgb(190, 171, 223);
+    font-weight: 400;
+    margin: 0px;
+    padding: 0px;
+    background: linear-gradient(
+167deg
+, rgb(40, 13, 87) 0%, rgb(54, 63, 159) 100%) center center / cover no-repeat;
+    overflow-x: hidden !important;
+}
+
+
+.iphDRN {
+    padding: 110px 0px 140px;
+    position: relative;
+    background-image: url(/_next/static/images/funds-bg-1bceee6….png);
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    background-repeat: no-repeat;
+    background-size: inherit;
+    background-position: 72% 0px;
+}
+
+
+
+
+.iphDRN::before {
+    position: absolute;
+    right: 0px;
+    top: 0%;
+    width: 100%;
+    height: 100%;
+    content: " ";
+}
+
+
+
+@media (min-width: 1200px)
+{
+.dnkXqM {
+    max-width: 1140px;
+}}
+
+
+@media (min-width: 992px)
+{
+.dnkXqM {
+    max-width: 960px;
+}}
+
+@media (min-width: 768px)
+{
+.dnkXqM {
+    max-width: 720px;
+}}
+
+@media (min-width: 576px)
+{
+.dnkXqM {
+    max-width: 95%;
+}} */
